@@ -1,0 +1,8 @@
+[package]
+name = "ensync"
+version = "0.1.0"
+authors = ["scott"]
+edition = "2018"
+
+[dependencies]
+walkdir = "2"
